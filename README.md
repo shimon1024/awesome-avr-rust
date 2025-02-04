@@ -18,6 +18,6 @@ A list of useful AVR libraries and cool projects
 
 * [CHIP-8 interpreter by Gergo Erdi](https://github.com/gergoerdi/rust-avr-chip8-avr)
 * [Keyboard firmware by Wez Furlong](https://github.com/wez/flutterby-rs)
-* [Demo for Arduboy](https://github.com/simon-i1-h/arduboy-hello-rs)
+* [Demo for Arduboy](https://github.com/shimon1024/arduboy-hello-rs)
 * [Dockerized avr-rust toolchain by Douglas Campos](https://github.com/qmx/docker-avr-rust)
 * [LED Blink Example](https://github.com/avr-rust/blink/)
